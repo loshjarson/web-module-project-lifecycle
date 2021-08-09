@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.user-card {
+  border: 3px dashed red;
+}
+
+.card-header {
+  text-align: center;
+  line-height: 5px;
+}
